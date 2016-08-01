@@ -7,4 +7,4 @@ August-1-2016
 
 --created a static website using Middleman Haml and Sass
 
---Uploaded static website details into github under the repository Training in a new branch Day-3
+--Uploaded static website details into github under the repository Training in a new branch day3

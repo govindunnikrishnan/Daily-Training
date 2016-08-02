@@ -14,6 +14,6 @@ August-2-2016
  
 --learned Bootstrap Framework
  
---Tried Bootstrap templates
+--Tried  different Bootstrap templates
 
 --Created a responsive site using bootstrap

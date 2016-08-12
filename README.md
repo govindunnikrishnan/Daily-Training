@@ -41,6 +41,6 @@ August-9-2016
 
 August-10-2016
 
---Test 3 completed.
+--Test 3 completed and uploaded on github : https://github.com/govindunnikrishnan/Test/tree/test3
 --Started learning Javascript
 
